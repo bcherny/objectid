@@ -3,6 +3,7 @@
   "version": "1.1.0",
   "description": "generate and validate mongodb objectId strings without dependencies",
   "main": "index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "test": "node test"
   },
